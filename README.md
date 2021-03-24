@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, Nx, Nestjs**
 
-- 📄 Know about my experiences [madipta.github.io](madipta.github.io)
+- 📄 Know about my experiences [https://madipta.github.io](madipta.github.io)
 
 <br><br>
 
