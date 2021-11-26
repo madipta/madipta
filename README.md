@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madipta</h1>
-<h3 align="center">Sotware Engineer</h3>
-
-- 🔭 I’m currently working on **secret mission**
-
-- 🌱 I’m currently learning **Golang, Rust**
-
-- 💬 Ask me about **Angular, Nx, Nestjs**
+<h3 align="center">Code Enthusiast</h3>
 
 - 📄 Know about my experiences [madipta.github.io](https://madipta.github.io)
 
